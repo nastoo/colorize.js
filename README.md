@@ -1,5 +1,5 @@
 # colorize.js
-## Currently limited to 100frames by execution (API Limitation)
+#### Currently limited to 100frames by execution (API Limitation)
 This script colorizes b&w images of video
 Video frames need to be saved as individual images
 You need to put your these images in a folder named to-colorize (located next to the script)
