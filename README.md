@@ -1,6 +1,4 @@
 # colorize.js
-Nathan Stooss - 2020
-
 This script colorizes b&w images of video
 Video frames need to be saved as individual images
 You need to put your these images in a folder named to-colorize (located next to the script)
