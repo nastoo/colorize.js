@@ -12,7 +12,7 @@
 
 // Now, the Script !
 // The API KEY : 
-const api_key = "a0fd9664-5c6b-46ac-9850-46ccddd71890";
+const api_key = "";
 
 // Inclusing modules 
 const fs = require('fs');
